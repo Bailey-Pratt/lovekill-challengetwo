@@ -1,0 +1,21 @@
+.container{
+    background-color: #2162e3;
+    font-family: 'Open Sans', sans-serif;
+  
+    border-color: aliceblue;
+    text-align: center;
+     border-style: round;
+    padding: 7%;
+   
+
+}
+
+.card {
+    
+    border-color: aliceblue;
+    margin: 10%;
+    border: 5px dashed blueviolet;
+    margin: 10%;
+     width: 30%;
+     height: 70%;
+}
